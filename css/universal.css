@@ -1,0 +1,34 @@
+
+
+/* Navegação do site!*/
+
+@import url(principal.css);
+
+
+
+
+
+
+/* estilo da página principal*/
+    @import url(
+        stiloPrincipal.css
+    );
+
+
+
+    
+
+/* estilo da página serviços */
+
+    @import url(servir.css);
+
+/* estilo sobre*/
+
+@import url(sobre.css);
+
+/* estilo do contrato*/
+
+@import url(contrat.css);
+
+
+@import url(Responsivo.css);

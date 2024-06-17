@@ -1,0 +1,79 @@
+
+/* Parte frontal do site!*/
+
+.frontal{
+    /* background-color: cyan; */
+    width: 90%;
+    height: auto;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    padding-top: 200px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    }
+
+
+    .frontal div{
+        width: 40%;
+        height: auto;
+        /* border: 1px solid green; */
+        margin: 2%;
+    }
+
+
+    .container_artigo{
+     
+        display: ;
+        margin-top: 300px;
+    }
+
+    .container_artigo h2{
+        text-align: center;
+        font-size: 40px;
+        font-family: cursive;
+        margin-bottom: 25px;
+        color: rgb(23, 23, 70);;
+        text-shadow: 6px 8px 10px blue;
+
+    }
+
+    .container_artigo p{
+        font-size: 20px;
+        text-align: center;
+        color: rgb(23, 23, 70);
+        text-shadow: 7px 9px 11px blue;
+    }
+
+    .botao{
+        margin: auto;
+        margin-top: 70px;
+        display: block;
+        padding: 20px;
+        border-radius: 20px;
+    }
+
+
+
+
+
+
+
+    .conteiner_img{
+        width: 100%;
+    }
+
+
+
+
+    .conteiner_img img{
+        /* border: 1px solid blue; */
+    }
+
+
+
+
+
+
+   

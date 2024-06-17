@@ -1,0 +1,115 @@
+
+
+
+.titulo{
+    text-align: center;
+    padding: 70px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(31, 31, 94);
+}
+
+/* primeira seccao*/
+
+.funcionario{
+    width: 100%;
+    height: auto;
+    margin-top: 100px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.Teresa ,.varela{
+    width: 40%;
+    height: auto;
+    /* border: 1px solid green; */
+    margin: auto;
+}
+
+.terefig,.varefig{
+    width: 100%;
+    height: auto;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    text-align: center;
+}
+
+.terefig figcaption,.varefig figcaption{
+
+    margin-bottom: 40px;
+    margin-top: 10px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+
+}
+
+
+
+.Teresa img, .varela img{
+    border: 1px solid black;
+    display: inline-block;
+    margin: 0 auto;
+    border-radius:20px ;
+    box-shadow: 0px 14px 16px black;
+}
+
+
+.lis{
+    text-align: center;
+    display: block;
+    /* border: 1px solid red; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* tabela de preços*/
+
+
+.titulo_tab{
+    margin-top: 105px;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.tabela{
+    
+    /* border: 1px solid blue; */
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-bottom: 120px;
+}
+
+table{
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
